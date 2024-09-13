@@ -1,5 +1,10 @@
 ## Recuperacion_Modulo5_Fernando_20220418
 # Recuperacion de Modulo 5
+Fernando Antonio Molina Paniagua
+20220418
+
+##Link del APK
+https://expo.dev/accounts/fernan_flooagua2024/projects/firebase-app/builds/5bd649fa-9052-47ad-9d3e-cdb08131516b
 
 ## Dependencias utilizadas
 
