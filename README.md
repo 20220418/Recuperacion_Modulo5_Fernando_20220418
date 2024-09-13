@@ -18,3 +18,13 @@ npm install react-native-safe-area-context@4.10.1
 npm install @react-navigation/native-stack @react-navigation/native
 
 npm install react-native-gesture-handler
+
+# Para el APK
+
+npm install -g eas-cli
+
+npx eas login
+
+npx eas build:configure
+
+npx eas build -p android --profile preview
